@@ -1,6 +1,3 @@
-This repository contains a research paper on web-based simulation platforms in chemistry. It explores their impact on research, education, and industry, covering virtual laboratories, molecular docking, spectroscopy, reaction simulations, and cloud-based computational tools. The integration of AI and machine learning is also discussed, highlighting advancements in predictive modeling and efficiency.
-
-
 Research paper on web-based simulation tools
 
 Case studies and applications
